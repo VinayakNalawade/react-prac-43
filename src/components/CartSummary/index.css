@@ -1,0 +1,32 @@
+.cartSummary {
+  align-self: flex-end;
+}
+
+.cartSummary-heading {
+  color: #616e7c;
+  margin: 2px;
+  font-size: 20px;
+}
+
+.cartSummary-span {
+  font-size: 22px;
+  color: #000000;
+}
+
+.cartSummary-para {
+  color: #616e7c;
+  margin: 2px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.checkout-btn {
+  width: 100%;
+  margin-top: 7px;
+  border: none;
+  outline: none;
+  background-color: #0b69ff;
+  color: #fcfafa;
+  padding: 5px;
+  border-radius: 5px;
+}
